@@ -1,0 +1,28 @@
+{
+  "name": "ALiOfflinePay",
+  "version": "0.1.0",
+  "summary": "A short description of ALiOfflinePay.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lihaiyang123/ALiOfflinePay",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lihaiyang123": "lihaiyang730325@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lihaiyang123/ALiOfflinePay.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "ios": {
+    "vendored_libraries": "ALiOfflinePay/Libraries/*.{a}"
+  },
+  "source_files": "ALiOfflinePay/Classes/**/*",
+  "xcconfig": {
+    "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES": true
+  }
+}

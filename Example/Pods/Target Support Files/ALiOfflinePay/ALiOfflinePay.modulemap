@@ -1,0 +1,6 @@
+framework module ALiOfflinePay {
+  umbrella header "ALiOfflinePay-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ALiOfflinePay_Example {
+  umbrella header "Pods-ALiOfflinePay_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

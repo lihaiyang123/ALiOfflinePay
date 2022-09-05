@@ -1,0 +1,6 @@
+framework module Pods_ALiOfflinePay_Tests {
+  umbrella header "Pods-ALiOfflinePay_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
